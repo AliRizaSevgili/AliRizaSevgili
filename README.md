@@ -1,3 +1,5 @@
+![My Image](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know-p-800.webp)
+
 ## Hi everyone, I'm Ali Riza Sevgili! 👋
 
 # I'm a passionate Web Developer with a focus on creating responsive, user-friendly websites and applications. I love turning ideas into reality using code and I'm always looking to learn new things in the world of web development.
