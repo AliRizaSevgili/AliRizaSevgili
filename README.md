@@ -14,9 +14,10 @@
 
 ## 🙋‍♂️ About Me
 
-🎂 I am young tech enthusiast.
+👨‍💻 I am a young tech enthusiast.
 
-🔭 Certified Tech Developer Student at Seneca College.  Currently mastering some technologies below.
+🎓 Certified Tech Developer Student at Seneca College. Currently mastering some technologies below.
+
 
 
 
