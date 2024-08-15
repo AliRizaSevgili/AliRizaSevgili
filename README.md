@@ -13,10 +13,10 @@
 </p>
 
 
-## 🚀 Languages and Tools:
+ Languages and Tools:
 
 
-- **Languages**:<p>
+
  ## 🛠 Languages
 
 <p align="center">
@@ -33,7 +33,15 @@
 </p>
 
 </p>
-- **Frameworks**: React, Angular, Node.js, Express.js
+## 🚀 Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Logo"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Logo"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Logo"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js Logo"/>
+</p>
+
 - **Tools**: Git, GitHub, VS Code, Webpack
 - **Databases**: MySQL, MongoDB
 - **Others**: Responsive Design, RESTful APIs, Agile Methodologies
