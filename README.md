@@ -51,7 +51,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Logo"/>
 </p>
 
-- **Others**: Responsive Design, RESTful APIs, Agile Methodologies
+## 🛠️ Others
+
+- **Responsive Design:** 🌐 Creating mobile-first, adaptive web experiences.
+- **RESTful APIs:** 🔗 Building scalable and maintainable API architectures.
+- **Agile Methodologies:** 🏃‍♂️ Efficient project management with Scrum and Kanban.
+
 
  ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirizasevgili/)
