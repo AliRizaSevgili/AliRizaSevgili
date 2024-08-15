@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Logo"/>
 </p>
 
-## 🛠️ Others Tools
+## 🛠️ Other Tools
 
 - **Responsive Design:** 🌐 Creating mobile-first, adaptive web experiences.
 - **RESTful APIs:** 🔗 Building scalable and maintainable API architectures.
