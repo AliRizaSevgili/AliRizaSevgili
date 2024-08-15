@@ -13,10 +13,6 @@
 </p>
 
 
- Languages and Tools:
-
-
-
  ## 🛠 Languages
 
 <p align="center">
@@ -33,6 +29,7 @@
 </p>
 
 </p>
+
 ## 🚀 Frameworks
 
 <p align="center">
