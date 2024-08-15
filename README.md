@@ -12,6 +12,13 @@
 
 </p>
 
+## 🙋‍♂️ About Me
+
+🎂 I am young tech enthusiast.
+
+🔭 Certified Tech Developer Student at Seneca College.  Currently mastering some technologies below.
+
+
 
  ## 💻 Languages
 
@@ -75,7 +82,7 @@
 
 ## 😄 Pronouns:
 
-<p align="center">
+<p>
   <strong>He / Him</strong>
 </p>
 
