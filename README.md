@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello, I'm Ali Riza Sevgili! 👋
+## Hi everyone, I'm Ali Riza Sevgili! 👋
 
 # I'm a passionate Web Developer with a focus on creating responsive, user-friendly websites and applications. I love turning ideas into reality using code and I'm always looking to learn new things in the world of web development.
 
@@ -15,7 +13,9 @@
 - **Databases**: MySQL, MongoDB
 - **Others**: Responsive Design, RESTful APIs, Agile Methodologies
 
-# 📫 How to reach me: alirizasevgili@gmail.com
+ ## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirizasevgili/)
+
 # 😄 Pronouns: Him
 
 
