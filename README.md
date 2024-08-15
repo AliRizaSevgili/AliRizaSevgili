@@ -74,6 +74,6 @@
 
 
 # 😄 Pronouns: 
-      <p>Him</p>
+      He / Him
 
 
