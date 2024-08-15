@@ -5,7 +5,7 @@
 <h2 align="center">Hi everyone, I'm Ali Riza Sevgili! 👋</h2>
 
 <p align="center" style="font-size:18px; line-height:1.6; font-family:'Arial', sans-serif;">
-  I'm a passionate <strong><em>Web Developer</em></strong> with a focus on creating <strong><em>responsive, user-friendly websites and applications</em></strong>. I love turning ideas into reality using code and I'm always looking to learn new things in the world of <strong><em>web development</em></strong>.
+  I'm a passionate <strong><em>Full-Stack Web Developer</em></strong> with a focus on creating <strong><em>responsive, user-friendly websites and applications</em></strong>. I love turning ideas into reality using code and I'm always looking to learn new things in the world of <strong><em>web development</em></strong>.
 </p>
 
 
