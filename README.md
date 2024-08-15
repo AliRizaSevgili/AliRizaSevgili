@@ -73,7 +73,11 @@
 </p>
 
 
-# 😄 Pronouns: 
-      He / Him
+## 😄 Pronouns:
+
+<p align="center">
+  <strong>He / Him</strong>
+</p>
+
 
 
