@@ -4,9 +4,10 @@
 
 <h2 align="center">Hi everyone, I'm Ali Riza Sevgili! 👋</h2>
 
-<p style="font-size:18px; font-family:Verdana, Geneva, sans-serif; color:#333;">
-  I'm a passionate Web Developer with a focus on creating responsive, user-friendly websites and applications. I love turning ideas into reality using code and I'm always looking to learn new things in the world of web development.
+<p align="center" style="font-size:18px; line-height:1.6; font-family:'Arial', sans-serif;">
+  I'm a passionate <strong><em>Web Developer</em></strong> with a focus on creating <strong><em>responsive, user-friendly websites and applications</em></strong>. I love turning ideas into reality using code and I'm always looking to learn new things in the world of <strong><em>web development</em></strong>.
 </p>
+
 
 
 </p>
