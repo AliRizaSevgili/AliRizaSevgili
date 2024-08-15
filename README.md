@@ -12,12 +12,12 @@
 
 </p>
 
-## 🚀 Skills
-## 🚀 Languages and Tools:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-- **Languages**: HTML, CSS, JavaScript, Python, SQL
+## 🚀 Languages and Tools:
+
+
+- **Languages**: HTML, CSS, JavaScript, Python, SQL ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - **Frameworks**: React, Angular, Node.js, Express.js
 - **Tools**: Git, GitHub, VS Code, Webpack
 - **Databases**: MySQL, MongoDB
