@@ -4,8 +4,9 @@
 
 <h2 align="center">Hi everyone, I'm Ali Riza Sevgili! 👋</h2>
 
-
-# I'm a passionate Web Developer with a focus on creating responsive, user-friendly websites and applications. I love turning ideas into reality using code and I'm always looking to learn new things in the world of web development.
+<p style="color:#2c3e50;">
+  I'm a passionate Web Developer with a focus on creating responsive, user-friendly websites and applications. I love turning ideas into reality using code and I'm always looking to learn new things in the world of web development.
+</p>
 
 ## 🚀 Skills
 ## 🚀 Languages and Tools:
