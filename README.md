@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**AliRizaSevgili/AliRizaSevgili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Ali Riza Sevgili! 👋
 
-Here are some ideas to get you started:
+# I'm a passionate Web Developer with a focus on creating responsive, user-friendly websites and applications. I love turning ideas into reality using code and I'm always looking to learn new things in the world of web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages**: HTML, CSS, JavaScript, Python, SQL
+- **Frameworks**: React, Angular, Node.js, Express.js
+- **Tools**: Git, GitHub, VS Code, Webpack
+- **Databases**: MySQL, MongoDB
+- **Others**: Responsive Design, RESTful APIs, Agile Methodologies
+
+# 📫 How to reach me: alirizasevgili@gmail.com
+# 😄 Pronouns: Him
+
+
