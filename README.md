@@ -5,7 +5,7 @@
 ### Full-Stack Developer | Bridging Business Needs with Technical Solutions
 I build software that delivers measurable business value. With a unique background in **law and sales**, I specialize in transforming complex business requirements into robust, scalable applications. My passion lies at the intersection of technical innovation and tangible impact.
 
-[<img src="https_github.com_AliRizaSevgili.png" width="800" />](https://www.linkedin.com/in/alirizasevgili/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliRizaSevgili&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alirizasevgili/" target="_blank">
