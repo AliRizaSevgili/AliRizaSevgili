@@ -14,9 +14,30 @@
 
 ## 🙋‍♂️ About Me
 
-👨‍💻 I am a young tech enthusiast.
+Full-stack software developer with a passion for building robust, scalable applications from idea to deployment.
 
-🎓 Certified Tech Developer Student at Seneca College. Currently mastering some technologies below.
+My expertise lies in the JavaScript ecosystem (Node.js, React, TypeScript), where I single-handedly engineered a complete e-commerce and booking platform for Heart Pottery Studios. This project wasn't just about writing code; it was about solving a real-world business problem. I discovered that my true passion lies at the intersection of technical innovation and business impact.
+
+By collaborating directly with my client, I designed a solution that drove a 60% reduction in cart abandonment and improved the booking success rate to 98%. This experience solidified my belief that the best technology is that which delivers measurable value.
+
+My unique foundation as a former lawyer and sales professional sets my approach apart. My legal background equipped me with rigorous analytical thinking, while my sales experience taught me the importance of understanding customer needs. This combination allows me to act as a bridge, translating complex technical capabilities into clear business solutions.
+
+I am now seeking a challenging role where I can leverage my full-stack development skills and client-focused mindset to build products that not only function flawlessly but also drive significant customer success and business growth.
+
+🔧 Technical Proficiencies 🔧
+
+🔹 Backend: Java, Spring Boot, Spring Security, Node.js, Express.js, RESTful & GraphQL APIs
+🔹 Frontend: React.js, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
+🔹 Databases: MongoDB, MySQL, Oracle SQL, Redis (Caching)
+🔹 Cloud & DevOps: Azure Cloud Services, Docker, Git/GitHub, CI/CD, Render, Vercel
+🔹 Security & Auth: JWT, OAuth 2.0, Session Management, Encryption (AES-256)
+🔹 Methodologies: Agile/Scrum, SDLC, experience in cross-functional teams of 15+ members
+
+You can see my work in action on the Heart Pottery Studios website or explore my code on GitHub.
+
+🔗 Recent Client-Based Project: https://www.heartpotterystudios.com/
+
+I'm always open to discussing new opportunities and innovative projects. Feel free to reach out!
 
 
 
