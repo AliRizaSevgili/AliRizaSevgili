@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ali Riza Sevgili
+#  Hi, I'm Ali Riza Sevgili
 
 ### IT Risk & GRC Analyst | PCI DSS • IAM • Data Privacy
 
@@ -19,7 +19,7 @@ Bridging Law (LL.B.) and Technology to identify risks, implement security contro
 
 ---
 
-## 🎯 Focus
+##  Focus
 
 - IT Risk & Control Implementation  
 - PCI DSS & Payment Security  
@@ -29,7 +29,7 @@ Bridging Law (LL.B.) and Technology to identify risks, implement security contro
 
 ---
 
-## 🔐 Selected Work
+##  Selected Work
 
 ### PCI DSS Risk Assessment (In Progress)
 - Identifying risks in e-commerce payment flows  
@@ -52,7 +52,7 @@ Bridging Law (LL.B.) and Technology to identify risks, implement security contro
 
 ---
 
-## 🧠 Technical & Framework Knowledge
+##  Technical & Framework Knowledge
 
 - PCI DSS  
 - OWASP Top 10  
@@ -63,7 +63,7 @@ Bridging Law (LL.B.) and Technology to identify risks, implement security contro
 
 ---
 
-## 📌 Goal
+##  Goal
 
 Seeking entry-level roles in:
 - IT Risk Analyst  
