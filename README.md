@@ -6,15 +6,7 @@
 
 IT Risk & GRC Analyst with a dual background in Law (LL.B.) and Computer Programming, focused on ITGC testing, SOC 2 readiness, audit evidence validation, remediation tracking, and risk-based control assessment.
 I work at the intersection of technology, compliance, and privacy, translating regulatory and security requirements into practical, testable controls across application and business environments.
-My hands-on experience includes:
--ITGC testing across access management, logging and monitoring, and change management controls
--Control walkthroughs, audit evidence validation, findings documentation, and remediation tracking
--SOC 2 readiness support, including control mapping, evidence structuring, and gap identification
--Risk assessment and risk register development for cybersecurity, operational, vendor, and privacy-related risks
--PCI DSS-aligned review of Stripe-based payment flows and cardholder data isolation
--IAM and data protection control assessment for systems handling personal information
--Privacy compliance support, including DPIA-style analysis, gap assessment, and data-handling risk review
-I am Security+ certified and currently completing CIPP/C, with a focus on Canadian privacy compliance, PIPEDA, IT risk, and security governance.
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alirizasevgili/" target="_blank">
